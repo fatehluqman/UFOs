@@ -10,7 +10,7 @@ Initial step was to remove the update button and add the additional filter list 
 To the app.js file a update filters and filter table functions were added. The function are used to read the user input in the filters and sort the table according to the filters. 
 Lastly the update button has been removed in place of updating the web page when a change to filters is detected. 
 
-The following demonstrates how the filters works. The initial table is displaced below with no filters applied:
+The following demonstrates how the filters works. The initial table is displaced below with no filters applied.  The filters will have placeholder values which will help the user enter proper format for the filters:
 ![intial table](https://user-images.githubusercontent.com/62673123/132254103-97c13f68-e094-4b13-9a43-f6bbad690758.PNG)
 The Date is now updated to 1/2/2010, once the date is entered and either "enter" or anther event is detected such as clicking outside the date input, the table will update:
 ![date_filter](https://user-images.githubusercontent.com/62673123/132254115-45825a43-110f-4128-8261-b71be2897f75.PNG)
