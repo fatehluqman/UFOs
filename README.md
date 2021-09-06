@@ -11,9 +11,14 @@ To the app.js file a update filters and filter table functions were added. The f
 Lastly the update button has been removed in place of updating the web page when a change to filters is detected. 
 
 The following demonstrates how the filters works. The initial table is displaced below with no filters applied:
+![intial table](https://user-images.githubusercontent.com/62673123/132254103-97c13f68-e094-4b13-9a43-f6bbad690758.PNG)
 The Date is now updated to 1/2/2010, once the date is entered and either "enter" or anther event is detected such as clicking outside the date input, the table will update:
-Another example using the input for State:
+![date_filter](https://user-images.githubusercontent.com/62673123/132254115-45825a43-110f-4128-8261-b71be2897f75.PNG)
+Another example showing how the state filter works:
+![state_filter](https://user-images.githubusercontent.com/62673123/132254170-70ed7e9e-270f-4389-b098-5fd631d08426.PNG)
 And using multiple filters in this case date and shape:
+![date_shape_filter](https://user-images.githubusercontent.com/62673123/132254153-24cc3ccc-9bc0-4892-b7d2-63373cabe2af.PNG)
+
 
 ## Summary
 The additional enhancements are beneficial for a deeper dive into the UFO sightings database, however there are limitation to the current filters.  
